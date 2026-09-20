@@ -40,22 +40,8 @@ Welcome to my GitHub playground! 👋 I'm a passionate full-stack developer who 
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat&logo=ethers&logoColor=white)
 
 
-## 📈 GitHub Stats
-
-[![Phuc Mai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phuc-mai&count_private=true&show_icons=true&theme=radical)](https://github.com/phuc-mai)
-
-## 📊 My Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuc-mai&layout=compact&theme=radical)](https://github.com/phuc-mai)
-
 ## 🌟 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/phuc-mai-1309/)
-- [YouTube](https://www.youtube.com/@codewithphuc)
-
-## 📈 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=phuc-mai&color=brightgreen)
 
 Thanks for stopping by! 😊✨
 
