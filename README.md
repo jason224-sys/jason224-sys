@@ -32,7 +32,12 @@ Welcome to my GitHub playground! 👋 I'm a passionate full-stack developer who 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF4E4?style=flat&logo=hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-FFDB1F?style=flat&logo=foundry&logoColor=black)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat&logo=ethers&logoColor=white)
 
 
 ## 📈 GitHub Stats
